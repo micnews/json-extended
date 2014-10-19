@@ -1,7 +1,7 @@
 {
   "name": "json-extended",
   "version": "1.0.0",
-  "description": "",
+  "description": "parse/stringify JSON, but with support for Buffers, Dates & RegExps",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
@@ -10,5 +10,16 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^3.0.1"
-  }
+  },
+  "dependencies": {
+    "tape": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micnews/json-extended.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micnews/json-extended/issues"
+  },
+  "homepage": "https://github.com/micnews/json-extended"
 }

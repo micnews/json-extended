@@ -1,6 +1,4 @@
-# json-extended
-
-
+# json-extended[![build status](https://secure.travis-ci.org/micnews/json-extended.png)](http://travis-ci.org/micnews/json-extended)
 
 [![NPM](https://nodei.co/npm/json-extended.png?downloads&stars)](https://nodei.co/npm/json-extended/)
 
