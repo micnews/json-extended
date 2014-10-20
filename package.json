@@ -1,6 +1,6 @@
 {
   "name": "json-extended",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "parse/stringify JSON, but with support for Buffers, Dates & RegExps",
   "main": "index.js",
   "scripts": {
