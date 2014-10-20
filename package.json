@@ -11,9 +11,7 @@
   "devDependencies": {
     "tape": "^3.0.1"
   },
-  "dependencies": {
-    "tape": "^3.0.1"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/micnews/json-extended.git"
